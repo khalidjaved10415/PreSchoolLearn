@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Pre School Learning </string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="learn_numbers">LEARN NUMBERS</string>
+    <string name="learn_animals">LEARN ANIMALS</string>
+    <string name="learn_birds">LEARN BIRDS</string>
+    <string name="title">Pre School Learning</string>
+
+    <string name="main_activity_title">LEARN NUMBERS AND ANIMALS</string>
+    <string name="title_activity_learn_animals">LearnAnimals</string>
+    <string name="title_activity_learn_numbers">LearnNumbers</string>
+    <string name="title_activity_shapes">Shapes</string>
+    <string name="star">star</string>
+    <string name="oval">oval</string>
+    <string name="heart">heart</string>
+    <string name="rectangle">rectangle</string>
+    <string name="diamond">diamond</string>
+    <string name="triangle">triangle</string>
+    <string name="square">square</string>
+    <string name="hexagon">hexagon</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+    <string name="six">six</string>
+    <string name="seven">seven</string>
+    <string name="eight">eight</string>
+    <string name="nine">nine</string>
+    <string name="ten">ten</string>
+    <string name="cat">cat</string>
+    <string name="chicken">chicken</string>
+    <string name="cow">cow</string>
+    <string name="puppy">puppy</string>
+    <string name="duck">duck</string>
+    <string name="elephant">elephant</string>
+    <string name="flamingo">flamingo</string>
+    <string name="giraffe">giraffe</string>'
+    <string name="goat">goat</string>
+    <string name="gorilla">gorilla</string>
+    <string name="horse">horse</string>
+    <string name="lion">lion</string>
+    <string name="monkey">monkey</string>
+    <string name="ostrich">ostrich</string>
+    <string name="panda">panda</string>
+    <string name="pig">pig</string>
+    <string name="sheep">sheep</string>
+    <string name="antelope">antelope</string>
+    <string name="mouse">mouse</string>
+    <string name="tiger">tiger</string>
+    <string name="kangaroo">kangaroo</string>
+    <string name="dolphin">dolphin</string>
+    <string name="donkey">donkey</string>
+    <string name="rhinoceros">rhinoceros</string>
+    <string name="title_activity_birds">Birds</string>
+
+
+
+
+
+
+
+</resources>
